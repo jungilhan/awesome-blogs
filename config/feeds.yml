@@ -7,7 +7,7 @@ production: &production
     - :author_name: 강성일
       :feed_url: https://b.luavis.kr/feed.xml
     - :author_name: 강성훈
-      :feed_url: http://j.mearie.org/rss
+      :feed_url: http://j.mearie.or김우섭g/rss
     - :author_name: 강성희
       :feed_url: https://medium.com/feed/@shaynekang
     - :author_name: 강진우
@@ -82,8 +82,6 @@ production: &production
       :feed_url: https://kimws.wordpress.com/feed/
     - :author_name: 김우용
       :feed_url: https://brunch.co.kr/atom/@@13x1
-    - :author_name: 김우섭
-      :feed_url: https://brunch.co.kr/rss/@@tcN
     - :author_name: 김정환
       :feed_url: http://blog.jeonghwan.net/feed.xml
     - :author_name: 김원일
